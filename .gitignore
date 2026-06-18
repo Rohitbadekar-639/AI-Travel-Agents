@@ -1,0 +1,22 @@
+# Virtual Environment
+langgraph_env3/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Generated travel plans
+travel_plans/
+
+# VS Code
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
