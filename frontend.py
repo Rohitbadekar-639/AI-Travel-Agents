@@ -221,7 +221,7 @@ section[data-testid="stSidebar"] {
 .sidebar-title { color: #e0edf8; font-size: 1rem; font-weight: 600; margin: 1rem 0 0.5rem; }
 
 /* Hide branding */
-#MainMenu, footer, header { visibility: hidden; }
+#MainMenu, footer { visibility: hidden; }
 
 /* Textarea */
 .stTextArea textarea {
